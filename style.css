@@ -1,0 +1,107 @@
+/* google font */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    font-family: "Poppins", sans-serif;
+}
+/* common css*/
+
+.padding-both{
+    padding:30px 0px;
+
+}
+.container{
+    width: 100%;
+    margin:  auto;
+    background-color: rgb(3, 3, 3);
+    color: white;
+}
+.flex-div{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.text{
+    color: orange;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+ .icon li{
+    
+    list-style: none;
+    margin-left: 21px;
+ }
+ .icon li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+ .download-cv {
+    background-color: #ff6600;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+/* banner section */
+.second{
+    display: flex;
+    gap: 3px;
+
+}
+.third{
+    display: flex;
+    gap: 3px;
+}
+.third-1{
+    color:orange;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.turjoy{
+    display: flex;
+    gap: 6px;
+}
+.portfolio{
+    background-color: #ff6600;
+    border-radius: 25px;
+    width: 120px;
+    
+
+}
+.portfolio a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+ .badhan{
+    display: flex;
+    border-radius: 15px;
+    gap: 30px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    width: 250px;
+ }
+
+
+ 
+ 
+
+
+
+

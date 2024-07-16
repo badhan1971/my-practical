@@ -1,0 +1,15 @@
+@media only screen and (max-width: 480px){
+    .container {
+        width: 100%;
+    }
+    .icon li{
+        
+        margin-left: 0;
+     }
+     .flex-div{
+        flex-direction: column;
+     }
+     .download-cv{
+        width: 25%;
+     }
+} 
